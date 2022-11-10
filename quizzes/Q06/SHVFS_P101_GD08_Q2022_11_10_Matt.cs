@@ -29,6 +29,7 @@ namespace SHVFS_P101_GD08_Matt
                     Console.Clear();
                 } i = i + 1;
             }while(reply == names[i]);
+            Console.WriteLine($"You guess the game for [i] times);
                 Console.WriteLine("Good job!The game is finished!");
                 Console.ReadLine();
                                 
