@@ -5,7 +5,7 @@ namespace SHVFS_P101_GD08_Matt
     {
         public static void Main(string[] args)
         {
-            string a, reply;
+            string  reply;
             int i = 0;
             string[] names={ "Matt","people", "person","human","Mat","Ma"};
             Random rand = new Random();
